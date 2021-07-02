@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243646997358",
+    "project_id": "dilevery-fca63",
+    "storage_bucket": "dilevery-fca63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243646997358:android:cf4c70ee1950a2cd95d77f",
+        "android_client_info": {
+          "package_name": "com.example.dilevery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243646997358-h03etv5uq3uve2m47jbv1hsflvpa48dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbw-8vZvrEsscIo_kIdITg8uttH-Bdig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243646997358-h03etv5uq3uve2m47jbv1hsflvpa48dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
